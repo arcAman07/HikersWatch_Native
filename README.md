@@ -5,7 +5,7 @@ An Android Application which asks the user permission to get his location and di
 
 ![image](https://user-images.githubusercontent.com/76823502/134681858-d9843d68-61a2-4be3-b621-514da5c90295.png)
 
-Future Improvements:
+Future Improvements:<br>
 1)Integrating Map feature where users can see these locations in a broader view.<br>
 2)Using firebase or sql for data storage.<br>
 3)Personalizing locations and integration weather API for the city of these locations.<br>
